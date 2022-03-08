@@ -1,5 +1,4 @@
 ## Description
-
 This program implements mutliple state machines
 
 * one to blink the led with some duty cycle
